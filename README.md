@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ron's Staking Pool
 
 You can use the [editor on GitHub](https://github.com/alvinronald/alvinronald.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
