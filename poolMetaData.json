@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "RonCardanoName",
+"description": "RonCardano Staking",
+"ticker": "ARM",
+"homepage": "https://alvinronald.github.io/index"
+}
+EOF
